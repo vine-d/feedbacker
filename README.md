@@ -26,7 +26,7 @@ NODE.JS - TYPESCRIPT - TailwindCSS
 
 #### SERVER
 
-NODE.JS - EXPRESS - Prisma
+NODE.JS - EXPRESS - Prisma ORM
 
 ### Technologies used
 
