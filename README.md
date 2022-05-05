@@ -13,18 +13,20 @@ A smart and functional feedback widget for web and mobile apps.
 
 - [x] web app
 - [ ] mobile app
-- [ ] Backend
+- [ ] server
 
 ### Requirements
 
 #### WEB
-...
+
+NODE.JS - TYPESCRIPT - TailwindCSS
 
 #### MOBILE
 ...
 
-#### BACKEND
-...
+#### SERVER
+
+NODE.JS - EXPRESS - Prisma
 
 ### Technologies used
 
