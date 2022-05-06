@@ -22,7 +22,8 @@ A smart and functional feedback widget for web and mobile apps.
 NODE.JS - TYPESCRIPT - TailwindCSS
 
 #### MOBILE
-...
+
+EXPO - React Native
 
 #### SERVER
 
