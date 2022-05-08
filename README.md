@@ -13,7 +13,7 @@ A smart and functional feedback widget for web and mobile apps.
 
 - [x] web app
 - [ ] mobile app
-- [ ] server
+- [x] server
 
 ### Requirements
 
@@ -28,10 +28,6 @@ EXPO - React Native
 #### SERVER
 
 NODE.JS - EXPRESS - Prisma ORM - JEST
-
-### Technologies used
-
-NODE.JS - TYPESCRIPT - TailwindCSS
 
 ### Thanks
 
