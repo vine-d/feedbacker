@@ -5,6 +5,11 @@ A smart and functional feedback widget for web and mobile apps.
 
 **Status:** Functional (View *TODO.md* for ongoing improvements)
 
+### Staging running deployment
+
+- SERVER: Railway
+- WEB: Vercel - https://feedbacker-ten.vercel.app/
+
 ---
 ### Screenshots
 
@@ -18,7 +23,7 @@ A smart and functional feedback widget for web and mobile apps.
 - [x] mobile app
 - [x] server
 ---
-### SERVER
+### SERVER (backend)
 
 NODE.JS - EXPRESS - Prisma ORM - JEST
 
@@ -41,17 +46,15 @@ npm run dev
 ```
 ---
 ### WEB
-
 NODE.JS - TYPESCRIPT - TailwindCSS
+
 ---
 ### MOBILE
-
 EXPO - React Native
 
+---
 ## Thanks to
-
 ### Rocketseat
-
 Development started during the event "NLW Return Impulse" (May 2022)
 
 ---
