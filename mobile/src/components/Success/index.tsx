@@ -13,7 +13,7 @@ export function Success( { onSendAnotherFeedback }:Props ){
 		<View style={styles.container}>
 			<Image
 				source={successImg}
-				style={styles.title}
+				style={styles.image}
 			/>
 			<Text style={styles.title}>
 				Thank you for your feedback
