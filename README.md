@@ -3,40 +3,59 @@
 ## Feedbacker - A feedback widget
 A smart and functional feedback widget for web and mobile apps.
 
-**Status:** Work in progress...
+**Status:** Functional (View *TODO.md* for ongoing improvements)
 
 ---
 ### Screenshots
-...
 
-### Features
+![Feedbacker Teardrop](screen-capture-0.png)
+![Feedbacker Options](screen-capture-1.png)
+![Feedbacker Form](screen-capture-2.png)
+
+### Sub projects
 
 - [x] web app
-- [ ] mobile app
+- [x] mobile app
 - [x] server
-
-### Requirements
-
-#### WEB
-
-NODE.JS - TYPESCRIPT - TailwindCSS
-
-#### MOBILE
-
-EXPO - React Native
-
-#### SERVER
+---
+### SERVER
 
 NODE.JS - EXPRESS - Prisma ORM - JEST
 
-### Thanks
+#### SERVER - Running local with mailtrap.io
 
-#### Rocketseat
+Needed *server/.env* file:
+```
+DATABASE_URL="..."
 
-Development started during the event "NLW Return" (May 2022)
-
-### Author
+MAILTRAP_USER="..."
+MAILTRAP_PASS="..."
+MAILTRAP_TEST_TO="Name <email@domain>"
+```
+Execute:
+```
+cd server
+npm install
+prisma migrate deploy
+npm run dev
+```
 ---
+### WEB
+
+NODE.JS - TYPESCRIPT - TailwindCSS
+---
+### MOBILE
+
+EXPO - React Native
+
+## Thanks to
+
+### Rocketseat
+
+Development started during the event "NLW Return Impulse" (May 2022)
+
+---
+### Author
 
 **Vinícius Dutra**
 
